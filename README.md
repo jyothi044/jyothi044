@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Bomminayani Jyothi!
 
-I'm a passionate and driven developer, currently pursuing my B.Tech in Computer Science Engineering (AIML) at Malla Reddy University. I love building innovative applications, exploring the world of AI & Machine Learning, and working with modern technologies to make a real impact.
-
+I'm a passionate and driven developer,I don't just build apps—I solve problems and create impact through code. With a passion for merging mobile development and AI, I transform complex challenges into elegant, user-centered solutions that make a difference. What truly sets me apart is my insatiable hunger for learning and my unwavering commitment to building applications that make a difference. I see technology not just as tools, but as vehicles for positive change. By fusing mobile development with cutting-edge machine learning capabilities, I'm on a mission to create solutions that aren't just functional—they're transformative. Every challenge is an opportunity, every obstacle a puzzle waiting to be solved, and I won't rest until I've mastered the skills needed to build the next generation of impactful applications.
 ---
 
 ### 🛠️ My Skills
